@@ -125,14 +125,6 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		7004AD032B174128005E8DD5 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-				7004AD042B174128005E8DD5 /* CustomSevenSystemPods.swift */,
-			);
-			path = Source;
-			sourceTree = "<group>";
-		};
 		9E3BD264585418BDF2BE9FCBB1B644AF /* Pods-CustomSevenSystemPods_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -152,7 +144,7 @@
 		ADF25DC05E324DED5825B312AC312F0C /* CustomSevenSystemPods */ = {
 			isa = PBXGroup;
 			children = (
-				7004AD032B174128005E8DD5 /* Source */,
+				7004AD042B174128005E8DD5 /* CustomSevenSystemPods.swift */,
 				F61392FD538130682739E429BEA72C21 /* Pod */,
 				DB82A7711A0410B114613C9C426B4561 /* Support Files */,
 			);
