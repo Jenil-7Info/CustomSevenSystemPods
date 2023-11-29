@@ -35,7 +35,6 @@ Pod::Spec.new do |s|
   s.platforms = {
       "ios": "13.0"
   }
-  
   # s.resource_bundles = {
   #   'CustomSevenSystemPods' => ['CustomSevenSystemPods/Assets/*.png']
   # }
