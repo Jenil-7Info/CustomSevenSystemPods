@@ -1,6 +1,6 @@
 # CustomSevenSystemPods
 
-[![CI Status](https://img.shields.io/travis/Jenil Rughani/CustomSevenSystemPods.svg?style=flat)](https://travis-ci.org/Jenil Rughani/CustomSevenSystemPods)
+[![CI Status](https://img.shields.io/travis/Jenil-7Info/CustomSevenSystemPods.svg?style=flat)](https://travis-ci.org/Jenil-7Info/CustomSevenSystemPods)
 [![Version](https://img.shields.io/cocoapods/v/CustomSevenSystemPods.svg?style=flat)](https://cocoapods.org/pods/CustomSevenSystemPods)
 [![License](https://img.shields.io/cocoapods/l/CustomSevenSystemPods.svg?style=flat)](https://cocoapods.org/pods/CustomSevenSystemPods)
 [![Platform](https://img.shields.io/cocoapods/p/CustomSevenSystemPods.svg?style=flat)](https://cocoapods.org/pods/CustomSevenSystemPods)
