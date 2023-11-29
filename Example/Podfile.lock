@@ -1,0 +1,16 @@
+PODS:
+  - CustomSevenSystemPods (0.1.0)
+
+DEPENDENCIES:
+  - CustomSevenSystemPods (from `../`)
+
+EXTERNAL SOURCES:
+  CustomSevenSystemPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomSevenSystemPods: 69bbed6f3a27e4a06e69f80adb62b15988791258
+
+PODFILE CHECKSUM: e1e8a0b4f99b220bbca7473f708d5ca6a2f97e08
+
+COCOAPODS: 1.12.0

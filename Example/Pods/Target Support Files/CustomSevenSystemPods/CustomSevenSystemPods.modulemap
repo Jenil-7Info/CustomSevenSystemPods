@@ -1,0 +1,6 @@
+framework module CustomSevenSystemPods {
+  umbrella header "CustomSevenSystemPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

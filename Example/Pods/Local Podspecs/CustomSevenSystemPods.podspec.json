@@ -1,0 +1,22 @@
+{
+  "name": "CustomSevenSystemPods",
+  "version": "0.1.0",
+  "summary": "A short description of CustomSevenSystemPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jenil Rughani/CustomSevenSystemPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jenil Rughani": "jenil@seveninfosystem.com"
+  },
+  "source": {
+    "git": "https://github.com/Jenil Rughani/CustomSevenSystemPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CustomSevenSystemPods/Classes/**/*"
+}
