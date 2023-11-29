@@ -22,7 +22,7 @@ pod 'CustomSevenSystemPods'
 
 ## Author
 
-Jenil Rughani, jenil@seveninfosystem.com
+Jenil Rughani
 
 ## License
 
