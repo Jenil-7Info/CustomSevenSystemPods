@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = 'CustomSevenSystemPods/**/*.{h,m,swift}'
+  s.source_files = 'Source/**/*.{h,m,swift}'
   
   s.platforms = {
       "ios": "13.0"
