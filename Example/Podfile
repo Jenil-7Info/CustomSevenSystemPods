@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CustomSevenSystemPods_Example' do
+  pod 'CustomSevenSystemPods', :path => '../'
+
+  target 'CustomSevenSystemPods_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
