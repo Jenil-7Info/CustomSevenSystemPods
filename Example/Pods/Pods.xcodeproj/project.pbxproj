@@ -596,7 +596,9 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				EXCLUDED_SOURCE_FILE_NAMES = "";
 				GCC_PREFIX_HEADER = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-prefix.pch";
+				INCLUDED_SOURCE_FILE_NAMES = CustomSevenSystemPods.swift;
 				INFOPLIST_FILE = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -629,7 +631,9 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				EXCLUDED_SOURCE_FILE_NAMES = "";
 				GCC_PREFIX_HEADER = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-prefix.pch";
+				INCLUDED_SOURCE_FILE_NAMES = CustomSevenSystemPods.swift;
 				INFOPLIST_FILE = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
