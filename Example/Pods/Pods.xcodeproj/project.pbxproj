@@ -13,6 +13,7 @@
 		616607D94144FED49B41CF19EA9897E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		6EB76AF9C39845535F91D47532440255 /* CustomSevenSystemPods-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C1C5963AC79E48930D667BF358318857 /* CustomSevenSystemPods-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7004AD052B174128005E8DD5 /* CustomSevenSystemPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7004AD042B174128005E8DD5 /* CustomSevenSystemPods.swift */; };
+		705FB67F2B185D7E00327ACB /* CustomSevenSystemPods.swift in Resources */ = {isa = PBXBuildFile; fileRef = 7004AD042B174128005E8DD5 /* CustomSevenSystemPods.swift */; };
 		7FC58F02A87D0B3BD4C87B51C4E06136 /* Pods-CustomSevenSystemPods_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FA02799523E4ADDF813A266C2B8DAA3 /* Pods-CustomSevenSystemPods_Tests-dummy.m */; };
 		C2CF9AB69010CD3A90A41D3187713D03 /* CustomSevenSystemPods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B95E6A7388FF8F727A5047E627B3BDD9 /* CustomSevenSystemPods-dummy.m */; };
 		E3B90C323B30EA17852EA36D8EDA736C /* Pods-CustomSevenSystemPods_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5979A4BB3C0CC8D04C5632E26D22186F /* Pods-CustomSevenSystemPods_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -363,6 +364,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				705FB67F2B185D7E00327ACB /* CustomSevenSystemPods.swift in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
