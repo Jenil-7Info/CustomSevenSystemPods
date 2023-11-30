@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print(printerStatement("My First Custom Pods."))
+        print(changerValue(10))
     }
 
     override func didReceiveMemoryWarning() {

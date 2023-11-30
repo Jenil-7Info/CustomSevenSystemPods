@@ -125,6 +125,14 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		704578A92B18467C008449BF /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7004AD042B174128005E8DD5 /* CustomSevenSystemPods.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		9E3BD264585418BDF2BE9FCBB1B644AF /* Pods-CustomSevenSystemPods_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -144,7 +152,7 @@
 		ADF25DC05E324DED5825B312AC312F0C /* CustomSevenSystemPods */ = {
 			isa = PBXGroup;
 			children = (
-				7004AD042B174128005E8DD5 /* CustomSevenSystemPods.swift */,
+				704578A92B18467C008449BF /* Classes */,
 				F61392FD538130682739E429BEA72C21 /* Pod */,
 				DB82A7711A0410B114613C9C426B4561 /* Support Files */,
 			);
@@ -427,7 +435,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Tests/Pods-CustomSevenSystemPods_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Tests/Pods-CustomSevenSystemPods_Tests.modulemap";
@@ -460,7 +468,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Example/Pods-CustomSevenSystemPods_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Example/Pods-CustomSevenSystemPods_Example.modulemap";
@@ -527,7 +535,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -554,7 +562,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Tests/Pods-CustomSevenSystemPods_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Tests/Pods-CustomSevenSystemPods_Tests.modulemap";
@@ -589,7 +597,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods.modulemap";
 				PRODUCT_MODULE_NAME = CustomSevenSystemPods;
@@ -622,7 +630,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/CustomSevenSystemPods/CustomSevenSystemPods.modulemap";
 				PRODUCT_MODULE_NAME = CustomSevenSystemPods;
@@ -654,7 +662,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Example/Pods-CustomSevenSystemPods_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-CustomSevenSystemPods_Example/Pods-CustomSevenSystemPods_Example.modulemap";
@@ -725,7 +733,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
